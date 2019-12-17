@@ -2,7 +2,13 @@ package dataStructure;
 
 import java.util.Collection;
 
+import sun.applet.Main;
+
 public class DGraph implements graph{
+	
+	
+	
+	//misthanim Node Key root node 
 
 	@Override
 	public node_data getNode(int key) {
@@ -69,5 +75,9 @@ public class DGraph implements graph{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+private void Main() {
+	// TODO Auto-generated method stub
+System.out.println("test");
 
+}
 }
