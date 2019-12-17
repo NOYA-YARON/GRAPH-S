@@ -76,8 +76,9 @@ public class DGraph implements graph{
 		return 0;
 	}
 private void Main() {
-	// TODO Auto-generated method stub
+	
 System.out.println("test");
+
 
 }
 }
