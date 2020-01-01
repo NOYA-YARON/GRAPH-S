@@ -11,7 +11,7 @@ import dataStructure.node_data;
  *
  */
 
-/////stammmmmmmmmmmmmmm bdikaaaaaaaaaa
+
 public class Graph_Algo implements graph_algorithms{
 
 	@Override
