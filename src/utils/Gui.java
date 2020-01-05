@@ -20,8 +20,10 @@ void printNodes(){
 	for (node_data vertex:nodes) {
 		StdDraw.point(vertex.getLocation().x(),vertex.getLocation().y());
 	}
-	
 }
+/**
+ * 
+ */
 	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		// TODO Auto-generated method stub
